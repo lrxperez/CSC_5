@@ -1,3 +1,3 @@
-# CSC_5
+# Java-Basic
 CORRECTION: Intro Java, basic programs
 
